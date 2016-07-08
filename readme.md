@@ -104,7 +104,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - Global Mapper
 - [mapnik](http://mapnik.org/) - Mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node
 - [TileMill](http://tilemill.com) the github code [link](https://github.com/mapbox/tilemill) - Creating beautiful interactive maps with CartoCSS
-- [Mapbox GL vector](https://www.mapbox.com/blog/mapbox-gl/) the github code [link](https://github.com/mapbox/mapbox-gl-native) - A new framework for live, responsive maps
+- [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - A C++ library rendering vector tiles
+- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - A javascript library rendering maps in browser side
 
 ## Saas
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
